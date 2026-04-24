@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm BADRU Abdul-Rahman Owolabi 👋
 
-<!--
-**boa-eng/boa-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 AI/ML Engineer in Training
 
-Here are some ideas to get you started:
+Oracle ML Associate Certified | Building toward GPU/CUDA 
+engineering and full-stack AI deployment
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ What I'm Learning
+- **Python** — deeply (generators, async, decorators)
+- **PyTorch** — neural networks, autograd, training loops
+- **NVIDIA CUDA** — GPU programming and kernel optimisation
+- **LLMs** — fine-tuning, RAG, agents, inference optimisation
+- **NeMo + NIM** — NVIDIA AI factory stack
+
+---
+
+## 📁 Projects
+| Project | Description | Stack |
+|---------|-------------|-------|
+| 🔧 GPT from Scratch | Training transformer on custom dataset | PyTorch, nanoGPT |
+| 🤖 Domain Fine-tuned LLM | QLoRA fine-tune on domain-specific data | HuggingFace, PEFT |
+| ⚡ RL Agent | Trained agent using PufferLib | PufferLib, PyTorch |
+
+---
+
+## 📜 Certifications
+- Oracle Cloud Infrastructure AI Foundations Associate
+- Oracle Machine Learning Associate
+- NVIDIA DLI — Fundamentals of Deep Learning *(in progress)*
+
+---
+
+## 🌍 Connect
+📧 r.badru05@gmail.com
